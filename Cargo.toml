@@ -1,0 +1,9 @@
+[package]
+name = "cellwars"
+version = "0.0.1"
+authors = ["Matias Fontanini <matias.fontanini@gmail.com>"]
+edition = "2018"
+description = "The official Rust Bot SDK for https://cellwars.io/"
+homepage = "https://cellwars.io/"
+repository = "https://github.com/mfontanini/cellwars-rust"
+license = "MIT"
