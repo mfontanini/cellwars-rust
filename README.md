@@ -1,3 +1,3 @@
 # cellwars
 
-This is the official Rust Bot SDK for https://cellwars.io
+This is the official Rust Bot SDK for [cellwars](https://cellwars.io)
